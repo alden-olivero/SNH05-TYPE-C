@@ -17,6 +17,9 @@ This is a Streamlit application that uses a pre-trained deep learning model to c
 
 ## Getting Started
 
+### Link for all datsets and Models Used:
+https://drive.google.com/drive/folders/1lAfbLjJ1F8Rib-afytW_AsBhdc4mNl_c?usp=sharing.
+
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -43,8 +46,7 @@ Execute the following command to run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
-# Link for all datsets and Models Used:
-https://drive.google.com/drive/folders/1lAfbLjJ1F8Rib-afytW_AsBhdc4mNl_c?usp=sharing.
+
 
 This will launch the app in your default web browser. Follow the instructions on the webpage to interact with the application.
 
